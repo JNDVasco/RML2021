@@ -11,6 +11,8 @@
 
 # Módulo 5 - Robotics simulation and Robot Operating System
 
+Documentação deste módulo [aqui](Módulo 5 - ROS/ROS.md)
+
 # Módulo 6 - Probability, Bayesian inference and Bayesian Networks
 
 # Módulo 7 - Pattern recognition, principles and algorithms
