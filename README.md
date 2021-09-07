@@ -17,6 +17,8 @@ Documentação deste módulo [aqui](Módulo%205%20-%20ROS/ROS.md)
 
 # Módulo 7 - Pattern recognition, principles and algorithms
 
+Seleção de atributos usada `weka.filters.supervised.attribute.AttributeSelection -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5"`
+
 ## Vote
 
 ### Naive Bayes com seleção de atributos
