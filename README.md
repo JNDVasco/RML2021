@@ -17,9 +17,9 @@ Documentação deste módulo [aqui](Módulo%205%20-%20ROS/ROS.md)
 
 # Módulo 7 - Pattern recognition, principles and algorithms
 
-# Vote
+## Vote
 
-## Naive Bayes com seleção de atributos
+### Naive Bayes com seleção de atributos
 
 ```
 Correctly Classified Instances         418               96.092  %
@@ -44,7 +44,7 @@ Weighted Avg.    0,961    0,042    0,961      0,961    0,961      0,918    0,991
  258   9 |   a = democrat
    8 160 |   b = republican
 ```
-## Random Forest
+### Random Forest
 
 ```
 Correctly Classified Instances         418               96.092  %
@@ -69,7 +69,7 @@ Weighted Avg.    0,961    0,044    0,961      0,961    0,961      0,917    0,993
  259   8 |   a = democrat
    9 159 |   b = republican
 ```
-## Random Forest com seleção de atributos
+### Random Forest com seleção de atributos
 
 ```
 Correctly Classified Instances         418               96.092  %
@@ -95,9 +95,9 @@ Weighted Avg.    0,961    0,042    0,961      0,961    0,961      0,918    0,989
    8 160 |   b = republican
 ```
 
-# Sonar
+## Sonar
 
-## Random Forest
+### Random Forest
 
 ```
 Correctly Classified Instances         169               81.25   %
@@ -123,9 +123,9 @@ Weighted Avg.    0,813    0,200    0,819      0,813    0,810      0,628    0,931
   11 100 |   b = Mine
 ```
 
-# Letters
+## Letters
 
-## LibSVM
+### LibSVM
 
 ```
 Correctly Classified Instances       19515               97.575  %
